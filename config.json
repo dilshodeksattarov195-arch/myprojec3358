@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorcalculate",
+        "uuid": 14513276,
+        "checksum": "natnis"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
